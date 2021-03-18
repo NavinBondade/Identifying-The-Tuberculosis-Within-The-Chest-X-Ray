@@ -13,4 +13,4 @@ Tuberculosis is one of the deadliest diseases and ranks 10th in the leading caus
   <li>Glob</li>
 </ul> 
 <h2>Data Visualization</h2>
-<img src="https://github.com/NavinBondade/Tuberculosis_Detection_with_90_percent_accuracy/blob/main/Tuberculosis%20Detection%20with%2090%25%20accuracy/Graps%20and%20Images/Tuberculosis%20Data%20Visualization.jpg" width="700" height="460">
+<img src="https://github.com/NavinBondade/Tuberculosis_Detection_with_90_percent_accuracy/blob/main/Tuberculosis%20Detection%20with%2090%25%20accuracy/Graps%20and%20Images/Tuberculosis%20Data%20Visualization.jpg" width="730" height="430">
