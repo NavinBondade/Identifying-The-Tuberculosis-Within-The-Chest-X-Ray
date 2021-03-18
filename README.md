@@ -16,4 +16,9 @@ Tuberculosis is one of the deadliest diseases and ranks 10th in the leading caus
 <img src="https://github.com/NavinBondade/Tuberculosis_Detection_with_90_percent_accuracy/blob/main/Tuberculosis%20Detection%20with%2090%25%20accuracy/Graps%20and%20Images/Tuberculosis%20Data%20Visualization.jpg" width="730" height="430">
 <h2>Model Details</h2>
 <p>The model consists of four convolutional layers for feature extraction from the images, each followed by a max-pooling layer and having the same padding. After the convolutional and max-pooling layers, the model uses three dense layers for the classification task. All the convolutional and dense layers use the Relu activation function except the last dense layer, which uses the softmax activation function. The model was trained for 20 epochs with batch size equals to 19. During the training process parse binary cross-entropy loss function was used along with Adam optimizer. The dataset on which the model has trained has downloaded from Kaggle.com (https://bit.ly/3vw3FJQ) </p>
-
+<h2>Model Evaluation</h2>
+<ul>
+  <li><h3>Loss</h3></li>
+</ul>  
+<img src="https://github.com/NavinBondade/Tuberculosis_Detection_with_90_percent_accuracy/blob/main/Tuberculosis%20Detection%20with%2090%25%20accuracy/Graps%20and%20Images/loss.png.png" width="450" height="300">
+<p>After training the model has shown loss: 0.1270 and accuracy: 0.9445 for training data and loss: 0.4219 and accuracy: 0.8955 for validation data (this clearly shows that model trained perfectly without overfitting or underfitting)</p>
