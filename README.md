@@ -1,4 +1,4 @@
-# Identifying The Tuberculosis In Chest X-Ray <br>With Ninety Percent Accuracy
+# Identifying The Tuberculosis In Chest X-Ray With <br> Ninety Percent Accuracy
 <img src="https://cdn.the-scientist.com/assets/articleNo/66278/aImg/33044/tb.jpg" alt="tomato" width="900" height="580">
 Tuberculosis is one of the deadliest diseases and ranks 10th in the leading cause of death worldwide; alone in 2019, there was an estimated total of 1,418,000 tuberculosis related deaths. The major symptoms of tuberculosis are the cough that lasts more than three weeks, loss of appetite and unintentional weight loss, fever, chills, and night sweats. Most people die because of tuberculous mainly die because of the negligence of symptoms or not getting proper health treatment at the proper time. For fight against this problem and to save countless life I have created this convolutional neural network-based deep learning model that is capable of identifying Tuberculosis with an accuracy of 90%. 
 <h2>Libraries Used</h2>
