@@ -17,9 +17,9 @@
 <img src="https://github.com/NavinBondade/Tuberculosis_Detection_with_90_percent_accuracy/blob/main/Tuberculosis%20Detection%20with%2090%25%20accuracy/Graps%20and%20Images/Tuberculosis%20Data%20Visualization.jpg" width="730" height="430">
 </p>  
 <h2>Model Details</h2>
-<pFor the identification of tuberculosis, the model at its core uses convolutional and fully connected layers. The model consists of four convolutional layers for feature extraction from the chest x-ray, each followed by a max-pooling layer.  After the four convolutional and max-pooling layers, the model uses three dense layers for the classification task.</p>
+<p> For the identification of tuberculosis, the model at its core uses convolutional and fully connected layers. The model consists of four convolutional layers for feature extraction from the chest x-ray, each followed by a max-pooling layer.  After the four convolutional and max-pooling layers, the model uses three dense layers for the classification task.</p>
 <h2>Model Training</h2>
-<p>The model was trained for 20 epochs with batch size equals 19. During the training process parse, the binary cross-entropy loss function was used along with the Adam optimizer. The dataset on which the model has trained has been downloaded from Kaggle.com (https://bit.ly/3vw3FJQ).</p>
+<p>The model was trained for 20 epochs with batch size equals 19. During the training process parse, the binary cross-entropy loss function was used along with the Adam optimizer. The dataset on which the model has trained has been downloaded from Kaggle.com (https://bit.ly/3vw3FJQ). </p>
 <h2>Model Evaluation</h2>
 <img src="https://github.com/NavinBondade/Tuberculosis_Detection_with_90_percent_accuracy/blob/main/Tuberculosis%20Detection%20with%2090%25%20accuracy/Graps%20and%20Images/loss.png" width="450" height="300">
 <p>After training process the model has shown loss: 0.1270 and accuracy: 0.9445 for training data and loss: 0.4219 and accuracy: 0.8955 for validation data (this clearly shows that model trained perfectly without overfitting or underfitting)</p>
