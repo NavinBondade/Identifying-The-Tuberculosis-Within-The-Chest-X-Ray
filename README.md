@@ -23,3 +23,5 @@
 <h2>Model Evaluation</h2>
 <img src="https://github.com/NavinBondade/Tuberculosis_Detection_with_90_percent_accuracy/blob/main/Tuberculosis%20Detection%20with%2090%25%20accuracy/Graps%20and%20Images/loss.png" width="450" height="300">
 <p>After training process the model has shown loss: 0.1270 and accuracy: 0.9445 for training data and loss: 0.4219 and accuracy: 0.8955 for validation data (this clearly shows that model trained perfectly without overfitting or underfitting)</p>
+<h2>Conclusion</h2>
+<p>In this project, I have created a convolution deep neural network architecture that correctly identifies tuberculosis infected chest x-ray with an impressive accuracy of 90 percent.</p>
