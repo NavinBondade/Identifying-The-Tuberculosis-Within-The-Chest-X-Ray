@@ -1,4 +1,9 @@
 # Identifying The Tuberculosis In Chest X-Ray With <br> An Accuracy Of Ninety Percent 
+<p align="center">
+<a href="https://nbviewer.jupyter.org/github/NavinBondade/Identifying-The-Tuberculosis-Within-The-Chest-X-Ray/blob/main/Tuberculosis%20Detection%20with%2090%25%20accuracy/NoteBook/Tuberculosis_Detection_with_90_accuracy_.ipynb" target="_blank">
+  <img align="center"  src="https://github.com/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Graphs/button_if-github-fails-to-load-the-notebook-click-here%20(4).png?raw=true"/>
+</a>
+</p>
 <img src="https://cdn.the-scientist.com/assets/articleNo/66278/aImg/33044/tb.jpg" alt="tomato" width="900" height="580">
 <p>Tuberculosis is one of the deadliest diseases and ranks 10th in the leading cause of death worldwide; alone in 2019, there was an estimated total of 1,418,000 tuberculosis related deaths. The major symptoms of tuberculosis are the cough that lasts more than three weeks, loss of appetite and unintentional weight loss, fever, chills, and night sweats. Most people die because of tuberculous mainly die because of the negligence of symptoms or not getting proper health treatment at the proper time. To fight against this problem and to save countless life I have created this convolutional neural network-based deep learning model that is capable of identifying Tuberculosis with an accuracy of 90%. </p>
 <h2>Libraries Used</h2>
